@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile*
+
+example/
+README.md
+LICENSE
